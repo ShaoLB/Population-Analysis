@@ -1,7 +1,3 @@
---------------------------------------------------------------------------------------------------------
-        This process is used for population analysis, including Kship,PCA,Tree,Gwas and structure
-
-Usage:
                 -pt             pheno:sampleName\tsampleName\tphenotype value
                 -pop            population information:sampleName\tsub population\tsub population
                 -vcf            vcf format file
@@ -19,12 +15,5 @@ Usage:
 
                 -h              help
 
-                 eg:
-                        popAnalyseAd-lastest.pl
-
-Note:
-
-        If you have any questions ,please contact to SHAOLIBIN:shaolibin@genomics.cn
---------------------------------------------------------------------------------------------------------
-                                Good Good Study,Day Day Up
-........................................................................................................
+  
+   This process is used for population analysis, including Kship,PCA,Tree,Gwas and structure
