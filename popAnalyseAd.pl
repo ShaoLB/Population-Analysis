@@ -61,7 +61,7 @@ Usage:
 
 Note:
 
-        If you have any questions ,please contact to SHAOLIBIN:shaolibin\@genomics.cn
+        If you have any questions ,please contact to super_qd_shao\@163.com
 --------------------------------------------------------------------------------------------------------
                                 Good Good Study,Day Day Up
 ........................................................................................................
